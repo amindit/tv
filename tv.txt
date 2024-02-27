@@ -2,6 +2,7 @@
 
 🇨🇳央视频道,#genre#
 
+CCTV100,http://123.161.132.222:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://123.161.132.222:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://123.52.43.144:8888/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://1.194.50.138:10086/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
